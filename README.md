@@ -42,6 +42,7 @@ In addition, download and install the <a href="https://github.com/micronucleus">
 <li>Run [Sketchbook]\micronucleus-master\windows_driver_installer\zadig_2.1.2.exe</li>
 <li>In Zadig select Device>Load Preset Device. </li>
 <li>Select micronucleus.cfg in the same folder. </li>
+</ol>
 
 
 <h1>Uploading Sketches to the DigiSpark Pro</h1>
